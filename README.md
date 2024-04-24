@@ -1,1 +1,1 @@
-# estoque_api
+# repositório destinado a aula de git no projeto web academy
